@@ -1,0 +1,8 @@
+.terminal{
+    background-color: black;
+    color: rgb(70, 230, 49);
+    padding: 10px 10px;
+    height: 200px;
+    width: 70%;
+    margin: 5% auto;
+}
